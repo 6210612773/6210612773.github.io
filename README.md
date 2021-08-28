@@ -1,6 +1,6 @@
 
 # Pathakorn Suksaeng
-# ![my picture](me.jpg)
+# ![my picture](me.JPG)
 # Nickname : Babe
 # My birth day is on 20/11/2000
 # I live in Kanchanaburi
